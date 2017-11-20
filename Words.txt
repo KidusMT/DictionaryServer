@@ -1,0 +1,6 @@
+dog:dog is a pet animal
+cat:cat is a pet animal
+family:is a group of related people or living things by blood
+country:a place to live in
+school:a living hell
+home:home is sweet home
